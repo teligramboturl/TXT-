@@ -23,7 +23,7 @@
 - Press the below button to Fast deploy on Heroku</b>
 
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/teligramboturl/HTXT.git)
 - <b>Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.</b></details>
 
 <details><summary><b>Deploy To Koyeb</b></summary>
